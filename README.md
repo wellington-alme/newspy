@@ -1,0 +1,2 @@
+# newspy
+Projeto de noticias 
